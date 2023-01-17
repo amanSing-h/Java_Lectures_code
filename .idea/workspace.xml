@@ -1,24 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a7ccf98-a02a-48fb-ac3b-f186b7c08d2b" name="Changes" comment="" />
+    <list default="true" id="1a7ccf98-a02a-48fb-ac3b-f186b7c08d2b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional and Loops_02/src/Basics_if_and_loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional and Loops_02/src/Basics_if_and_loop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional and Loops_02/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional and Loops_02/src/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional and Loops_02/src/CaseCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional and Loops_02/src/CaseCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional and Loops_02/src/Count_OccurenceOf_Nums.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional and Loops_02/src/Count_OccurenceOf_Nums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional and Loops_02/src/EvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional and Loops_02/src/EvenOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional and Loops_02/src/FIbonaciiSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional and Loops_02/src/FIbonaciiSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional and Loops_02/src/If_Else.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional and Loops_02/src/If_Else.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional and Loops_02/src/Largest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional and Loops_02/src/Largest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional and Loops_02/src/Loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional and Loops_02/src/Loops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional and Loops_02/src/ReversingNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional and Loops_02/src/ReversingNums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals and Loops_02/Conditionals and Loops.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals and Loops_02/src/Basics_if_and_loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals and Loops_02/src/CaseCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals and Loops_02/src/EvenOdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals and Loops_02/src/If_Else.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals and Loops_02/src/Largest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals and Loops_02/src/Loops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intro_01/src/Inputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/Intro_01/src/Inputs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intro_01/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Intro_01/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intro_01/src/Primitives.java" beforeDir="false" afterPath="$PROJECT_DIR$/Intro_01/src/Primitives.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intro_01/src/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Intro_01/src/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intro_01/src/TypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/Intro_01/src/TypeCasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/src/GreetingMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Questions/src/GreetingMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/src/LargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Questions/src/LargestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/src/PerformingOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/Questions/src/PerformingOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/src/SimpleInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Questions/src/SimpleInterest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/src/Temperature_Conversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Questions/src/Temperature_Conversion.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2KSMHGu728eYNTsq8d4WRXx63ep" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -29,5 +80,8 @@
       <updated>1673963443395</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
