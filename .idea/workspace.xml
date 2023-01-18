@@ -5,35 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a7ccf98-a02a-48fb-ac3b-f186b7c08d2b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Switch_03/Switch_03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch_03/src/Day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch_03/src/Enhanced_Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch_03/src/Fruits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch_03/src/Nested_Switch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditional and Loops_02/src/Basics_if_and_loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional and Loops_02/src/Basics_if_and_loop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditional and Loops_02/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional and Loops_02/src/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditional and Loops_02/src/CaseCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional and Loops_02/src/CaseCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditional and Loops_02/src/Count_OccurenceOf_Nums.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional and Loops_02/src/Count_OccurenceOf_Nums.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditional and Loops_02/src/EvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional and Loops_02/src/EvenOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditional and Loops_02/src/FIbonaciiSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional and Loops_02/src/FIbonaciiSeries.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditional and Loops_02/src/If_Else.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional and Loops_02/src/If_Else.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditional and Loops_02/src/Largest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional and Loops_02/src/Largest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditional and Loops_02/src/Loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional and Loops_02/src/Loops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditional and Loops_02/src/ReversingNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional and Loops_02/src/ReversingNums.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditionals and Loops_02/Conditionals and Loops.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditionals and Loops_02/src/Basics_if_and_loop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditionals and Loops_02/src/CaseCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditionals and Loops_02/src/EvenOdd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditionals and Loops_02/src/If_Else.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditionals and Loops_02/src/Largest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditionals and Loops_02/src/Loops.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro_01/src/Inputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/Intro_01/src/Inputs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro_01/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Intro_01/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro_01/src/Primitives.java" beforeDir="false" afterPath="$PROJECT_DIR$/Intro_01/src/Primitives.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro_01/src/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Intro_01/src/Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro_01/src/TypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/Intro_01/src/TypeCasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Questions/src/GreetingMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Questions/src/GreetingMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Questions/src/LargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Questions/src/LargestNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Questions/src/PerformingOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/Questions/src/PerformingOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Questions/src/SimpleInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Questions/src/SimpleInterest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Questions/src/Temperature_Conversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Questions/src/Temperature_Conversion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
