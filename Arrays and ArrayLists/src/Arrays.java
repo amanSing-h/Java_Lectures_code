@@ -31,7 +31,18 @@ public class Arrays {
          or if string then string or if boolean then boolean and so on.
 
          */
+        int[] ros; // declaration of array, ros is getting defined in the stack
+        ros = new int[5]; //initialisation  or creating the object is being created in the memory(heap)
+        // here 5 is the size of the array
 
+        /*
+        int[] arr = new int[5];
+        (compile time ::
+        int[] -> datatype
+        arr -> reference variable)
+        (runtime :: dynamic memory allocation-> memory allocated at runtime
+        new int[5] -> creating the object in heap memory)
+         */
         
 
     }
