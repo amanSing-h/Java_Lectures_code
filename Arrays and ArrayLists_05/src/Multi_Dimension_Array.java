@@ -54,7 +54,7 @@ public class Multi_Dimension_Array {
         // Input
         for ( int row =0; row < arr.length; row++){
             // for each column in every row
-            for (int col = 0; col < arr[row].length; col++){
+            for (int col = 0; col < arr[row].length; col++){ //arr[row] -> array at that particular row
                 // arr[row] -> number of  column can vary for every row(that's why not mandatory)
                 arr[row][col] = input.nextInt();
 

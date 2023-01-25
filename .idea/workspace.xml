@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a7ccf98-a02a-48fb-ac3b-f186b7c08d2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays and ArrayLists_05/Arrays and ArrayLists_05.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays and ArrayLists_05/src/Arrays_passing_in_Function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays and ArrayLists_05/src/Input_and_Enhanced_for_loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays and ArrayLists_05/src/Multi_Dimension_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays and ArrayLists_05/src/ArrayLists_Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays and ArrayLists_05/src/ColumnsFixed.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays and ArrayLists/src/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays and ArrayLists_05/src/Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays and ArrayLists_05/src/Multi_Dimension_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays and ArrayLists_05/src/Multi_Dimension_Array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
