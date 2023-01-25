@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays and ArrayLists_05/Arrays and ArrayLists_05.iml" filepath="$PROJECT_DIR$/Arrays and ArrayLists_05/Arrays and ArrayLists_05.iml" />
       <module fileurl="file://$PROJECT_DIR$/Conditional and Loops_02/Conditional and Loops_02.iml" filepath="$PROJECT_DIR$/Conditional and Loops_02/Conditional and Loops_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Conditionals and Loops_02/Conditionals and Loops_02.iml" filepath="$PROJECT_DIR$/Conditionals and Loops_02/Conditionals and Loops_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Functions_Methods_04/Functions_Methods_04.iml" filepath="$PROJECT_DIR$/Functions_Methods_04/Functions_Methods_04.iml" />
