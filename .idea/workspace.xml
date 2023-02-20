@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a7ccf98-a02a-48fb-ac3b-f186b7c08d2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays and ArrayLists_05/src/ArrayLists_Basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays and ArrayLists_05/src/ColumnsFixed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays and ArrayLists_05/src/ArrayList_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays and ArrayLists_05/src/Max_item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays and ArrayLists_05/src/Multi_dimensional_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays and ArrayLists_05/src/Reversing_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays and ArrayLists_05/src/Swap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays and ArrayLists_05/src/Multi_Dimension_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays and ArrayLists_05/src/Multi_Dimension_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays and ArrayLists_05/src/ArrayLists_Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays and ArrayLists_05/src/ArrayLists_Basic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +52,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Reversing_Array">
     <configuration name="Greeting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Greeting" />
       <module name="Functions_Methods_04" />
@@ -64,16 +67,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Returning_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Returning_String" />
-      <module name="Functions_Methods_04" />
+    <configuration name="Reversing_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reversing_Array" />
+      <module name="Arrays and ArrayLists_05" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum_using_Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sum_using_Function" />
-      <module name="Functions_Methods_04" />
+    <configuration name="Swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Swap" />
+      <module name="Arrays and ArrayLists_05" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -87,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Reversing_Array" />
+        <item itemvalue="Application.Swap" />
         <item itemvalue="Application.Greeting" />
         <item itemvalue="Application.Passing_values" />
         <item itemvalue="Application.Swapping_nums" />
-        <item itemvalue="Application.Returning_String" />
-        <item itemvalue="Application.Sum_using_Function" />
       </list>
     </recent_temporary>
   </component>
